@@ -12,11 +12,16 @@
 - 👏👍 [JavaScript设计模式](https://book.douban.com/subject/26589719/)，2015-8
 - 👍 [移动Web前端高效开发实战](https://book.douban.com/subject/27127110/)，2017-9 
 
+## 正在读
+- 👍 [设计模式之禅（第2版）](https://book.douban.com/subject/25843319/)，2014-2
+- 👍 [人人都是产品经理2.0](https://book.douban.com/subject/27029547/)，2017-5
+- 👍 [大型网站技术架构](https://book.douban.com/subject/25723064/)，2013-9
 
 # 待读
 - [指尖上行 移动前端开发进阶之路](https://book.douban.com/subject/27149862/)，2017-9
 - [深入理解ES6](https://book.douban.com/subject/27072230/)，2017-7
 - [深入浅出Webpack](https://book.douban.com/subject/27605367/)，2018-1
+- [图解HTTP](https://book.douban.com/subject/25863515/)，2014-4
 
 > 参考： 
 1. [dunizb](https://github.com/dunizb/reading-list)
